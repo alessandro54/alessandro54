@@ -2,7 +2,7 @@
 ---
 
 I'm a 23 years old Software Developer studying Software 
-Engineering. I take programming as a hobby, also as a job. I'm always learning new technologies to complement my roster of my full stack technologies
+Engineering. I take programming as a hobby, also as a job. I'm always learning new technologies to complement my roster of my full stack technologies.
 
 
 ## **Languages and Tools:**
@@ -19,7 +19,11 @@ Engineering. I take programming as a hobby, also as a job. I'm always learning n
     <img height="20" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" title="Python">
 </code>
 
-<code><img height="20" src=""></code>
+
+🔭 Interesting tools:
+
+* [TailwindCSS](https://tailwindcss.com/)
+
 
 🌱 I’m currently learning: 
 
