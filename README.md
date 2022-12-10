@@ -1,10 +1,10 @@
 # Hi there! I'm Alessandro Paris👋
 
 
-I'm a 23 years old Software Engineer from Lima, Peru. I dedicate myself to Full Stack Developing , but now I'm working as a Back end Ruby Engineer. Also I have skills for Front end development such as React and Vue. I'm also always learning new tools to add to my collection of technologies
+I'm a 24 years old Software Engineer from Lima, Peru.
 
-* 🌱 I'm currently learning  **Crystal**
-* 💬 Ask me about **Node, Ruby and React**
+* 🌱 I'm currently learning  **Nest.js**
+* 💬 Ask me about **Deno, Ruby and Python**
 * 📫 How to reach me: Email me to **alessandro.chumpitazp@gmail.com**
 
 ## **Languages and Tools:**
