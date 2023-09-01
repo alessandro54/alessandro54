@@ -2,8 +2,15 @@
 
 As you can guess I'm a 25 years old Software Developer 🚀 with 3 years of professional experience, tons of expertise in Ruby, also a Data Science enthusiast and constant learner. I live in Lima, Peru 🇵🇪 and I'm currently working at [Applaudo](https://applaudo.com/) as a Backend Engineer.
 
+Do not hesitate to ask me anything, I am glad to be able to share everything that I have been studying and discovering all this time. Also I'm open to advices, tips and everything you want to share, everything is welcome!! 🧑‍🚀
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alessandro54&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=alessandro54&rank_icon=github"/>
+</a>
+<a href="https://github.com/alessandro54">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro54&layout=compact"/>
+</a>
+
 ## Contact me !
 <a href='mailto:alessandro.chumpitazp@gmail.com'>
   <img src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white'>
@@ -21,7 +28,7 @@ As you can guess I'm a 25 years old Software Developer 🚀 with 3 years of prof
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro54&layout=compact)](https://github.com/alessandro54/github-readme-stats)
+
 
 ## Currently Learning 👩‍💻
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
